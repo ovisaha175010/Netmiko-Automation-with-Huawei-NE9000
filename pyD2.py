@@ -1,5 +1,5 @@
 
-Network Example — Full Netmiko With argparse
+#Network Example — Full Netmiko With argparse
 
 from netmiko import ConnectHandler
 from getpass import getpass
